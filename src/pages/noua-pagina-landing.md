@@ -10,13 +10,23 @@ sections:
         url: www.highkey.cloud
   - type: section_pricing
     bg: gray
+  - type: section_features
+    bg: gray
+    featureslist:
+      - content: |-
+          asdasasdadas
+
+          ```
+          console.log("yoyo");
+          ```
+        image: /images/12.jpg
 menus:
   main:
     identifier: '2141313'
-    title: '1431231'
+    title: Here is my portfolio
     weight: 1241244123
   secondary:
     identifier: '12312'
-    title: '123124'
+    title: Seconday menu item name
 template: landing
 ---
