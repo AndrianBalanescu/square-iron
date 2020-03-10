@@ -5,9 +5,9 @@ sections:
     section_id: hero
     title: This Is A Big Hero Headline
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
+      Perfect theme for developers, designers and entrepreneurs who need a
+      sleek, modern SaaS site.
+    image: /images/11.jpg
     actions:
       - label: Learn More
         url: /features
@@ -46,6 +46,11 @@ sections:
         actions:
           - label: Learn More
             url: /features
+      - title: Learning never exhausts the mind
+        content: Here is going to be my text
+        image: /images/11.jpg
+        actions:
+          - label: 'Read More :)'
   - type: section_reviews
     section_id: reviews
     title: Testimonials
