@@ -1,5 +1,15 @@
 ---
 title: noua pagina landing
+sections:
+  - type: section_hero
+    content: asdsfggfwwwwwwwwwwwwwwwwwwwwwwww
+    image: /images/10_thumb.jpg
+    title: wwwwwwwwwww
+    actions:
+      - label: buttleon
+        url: www.highkey.cloud
+  - type: section_pricing
+    bg: gray
 menus:
   main:
     identifier: '2141313'
@@ -10,4 +20,3 @@ menus:
     title: '123124'
 template: landing
 ---
-
