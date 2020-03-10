@@ -33,6 +33,17 @@ sections:
     actions:
       - label: Get Started
         url: '#'
+  - type: section_faq
+    bg: gray
+    faqitems:
+      - question: What ca i do for you?
+        answer: |-
+          I can build your website any way you want it =>  
+
+          * AMP Accelerated Mobile Pages 
+          * PWA Progressive Web App
+
+            * SPA Singe Page Application
 menus:
   main:
     title: Features
