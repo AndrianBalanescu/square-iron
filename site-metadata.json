@@ -3,13 +3,16 @@
   "palette": "green",
   "header": {
     "title": "Flowmaster",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/linux.jpg",
     "has_nav": true,
     "menu": {
       "actions": [
         {
-          "label": "Sign Up",
+          "label": "Sign up",
           "url": "/signup"
+        },
+        {
+          "label": "Contact us"
         }
       ]
     }
@@ -19,14 +22,14 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "Flowmaster.tech",
     "logo_img": "images/logo_alt.png",
     "has_social": true,
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "Flowmaster.tech&copy; Stackbit. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Learning never exhausts the mind",
+        "url": "https://www.flowmaster.tech",
         "new_window": true
       }
     ],
